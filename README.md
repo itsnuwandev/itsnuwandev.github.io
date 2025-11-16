@@ -13,8 +13,7 @@ This is the personal portfolio website of Nuwan Bandara, showcasing skills, proj
 
 ## 📸 Site Preview
 
-<!-- ![Screenshot of the site](screenshot.png) -->
-<video controls src="ss.mp4" title="Title"></video>
+![Screenshot of the site](ss1.png)
 
 <!-- For video demo, use: -->
 <!-- [Watch Demo](demo.mp4) -->
