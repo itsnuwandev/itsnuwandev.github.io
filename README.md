@@ -1,6 +1,6 @@
-# Nuwan Bandara Portfolio
+# Personal Portfolio website.
 
-This is the personal portfolio website of Nuwan Bandara, showcasing skills, projects, and contact information.
+This is my personal portfolio website, showcasing my skills, projects, and contact information.
 
 ## 🚀 Technologies Used
 
