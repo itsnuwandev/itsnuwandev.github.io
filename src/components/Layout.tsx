@@ -75,7 +75,7 @@ export const Layout = ({ children }: LayoutProps) => {
               </p>
               <div className="flex space-x-4">
                 <motion.a
-                  href="https://github.com/oxBinaryBrain/"
+                  href="https://github.com/itsnuwandev"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-brand-purple transition-colors bg-secondary p-2 rounded-full"
@@ -86,7 +86,7 @@ export const Layout = ({ children }: LayoutProps) => {
                   <Github className="h-4 w-4" />
                 </motion.a>
                 <motion.a
-                  href="https://www.linkedin.com/in/uday-g-601ba9266/"
+                  href="https://www.linkedin.com/in/nuwan-bandara-a87300309/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-brand-purple transition-colors bg-secondary p-2 rounded-full"
@@ -97,7 +97,7 @@ export const Layout = ({ children }: LayoutProps) => {
                   <Linkedin className="h-4 w-4" />
                 </motion.a>
                 <motion.a
-                  href="https://x.com/UdayG6389896490"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-brand-purple transition-colors bg-secondary p-2 rounded-full"
@@ -108,7 +108,7 @@ export const Layout = ({ children }: LayoutProps) => {
                   <Twitter className="h-4 w-4" />
                 </motion.a>
                 <motion.a
-                  href="mailto:ud4yg@yandex.com"
+                  href=""
                   className="text-muted-foreground hover:text-brand-purple transition-colors bg-secondary p-2 rounded-full"
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.95 }}

@@ -22,12 +22,12 @@ const ContactInfo = () => {
     {
       icon: <Github className="h-5 w-5" />,
       name: "GitHub",
-      url: "https://github.com/oxBinaryBrain/",
+      url: "https://github.com/itsnuwandev",
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/uday-g-601ba9266/",
+      url: "https://www.linkedin.com/in/nuwan-bandara-a87300309/",
     },
     {
       icon: <Twitter className="h-5 w-5" />,
